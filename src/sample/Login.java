@@ -98,7 +98,7 @@ public class Login {
                         logger.println("3. last modified " + date.toLocaleString());
                         logger.close();
 
-                        m.changeScene("menu.fxml");
+                        m.changeScene("menu.fxml", 600, 400);
                         break;
                     }
                 }
@@ -194,7 +194,7 @@ public class Login {
                     logger.println("3. " + date.toLocaleString());
                     logger.close();
 
-                    m.changeScene("menu.fxml");
+                    m.changeScene("menu.fxml", 600, 400);
 
                 } catch (Exception e) {
                     System.out.println(e);

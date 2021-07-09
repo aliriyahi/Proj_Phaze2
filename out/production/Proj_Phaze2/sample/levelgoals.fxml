@@ -1,20 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.scene.control.Label?>
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
 
-
-<BorderPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1080.0" prefWidth="1400.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+<BorderPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="1080.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Levelgoals">
    <center>
-      <AnchorPane prefHeight="1080.0" prefWidth="1400.0" BorderPane.alignment="CENTER">
+      <AnchorPane prefHeight="700.0" prefWidth="1080.0" BorderPane.alignment="CENTER">
          <children>
-            <ImageView fitHeight="1080.0" fitWidth="1400.0" pickOnBounds="true" preserveRatio="true">
+            <ImageView fitHeight="700.0" fitWidth="1080.0" pickOnBounds="true">
                <image>
                   <Image url="@../image/level%20goals.jpg" />
                </image>
             </ImageView>
+            <Label fx:id="level" layoutX="516.0" layoutY="153.0" text="mgc,">
+               <font>
+                  <Font name="System Bold" size="25.0" />
+               </font>
+            </Label>
+            <Label fx:id="time" layoutX="404.0" layoutY="204.0" textFill="WHITE">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Label>
+            <Label fx:id="prize" layoutX="605.0" layoutY="203.0" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="25.0" />
+               </font>
+            </Label>
+            <Label fx:id="task1" layoutX="326.0" layoutY="313.0" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="25.0" />
+               </font>
+            </Label>
+            <Label fx:id="task2" layoutX="333.0" layoutY="368.0" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="25.0" />
+               </font>
+            </Label>
+            <Label fx:id="task3" layoutX="326.0" layoutY="432.0" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="25.0" />
+               </font>
+            </Label>
+            <Label fx:id="task4" layoutX="327.0" layoutY="488.0" textFill="WHITE">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Label>
+            <Label fx:id="task5" layoutX="588.0" layoutY="313.0" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="25.0" />
+               </font>
+            </Label>
+            <Label fx:id="task6" layoutX="581.0" layoutY="385.0" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="25.0" />
+               </font>
+            </Label>
+            <Label fx:id="label" layoutX="338.0" layoutY="145.0" text="Label" />
          </children>
       </AnchorPane>
    </center>

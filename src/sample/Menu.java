@@ -47,7 +47,7 @@ public class Menu {
             }
             else if (Integer.parseInt(level.getText()) <= login.level) {
 
-                m.changeScene("levelgoals.fxml");
+                m.changeScene("levelgoals.fxml", 1080,700);
                 Levelgoals l = new Levelgoals();
                 l.goals(Integer.parseInt(level.getText()));
 
@@ -68,7 +68,7 @@ public class Menu {
     public void userLogout(ActionEvent actionEvent) throws IOException{
         Main m = new Main();
         logger("INFO", "USER LOG OUT");
-        m.changeScene("sample.fxml");
+        m.changeScene("sample.fxml", 600, 400);
     }
 
 

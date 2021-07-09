@@ -1,63 +1,28 @@
 Header
-1. Jul 8, 2021, 7:25:44 PM
 2. ali
-3. Jul 8, 2021, 7:25:44 PM
-Header
-1. Jul 8, 2021, 7:26:30 PM
-2. yashar
-3. Jul 8, 2021, 7:26:30 PM
+3. last modified Jul 9, 2021, 10:03:40 PM
+[INFO] ,Jul 9, 2021, 10:03:48 PM ,USER ENTER THE GAME ...
 Header
 2. ali
-3. last modified Jul 8, 2021, 8:18:50 PM
+3. last modified Jul 9, 2021, 10:04:29 PM
+[INFO] ,Jul 9, 2021, 10:04:38 PM ,USER ENTER THE GAME ...
 Header
 2. ali
-3. last modified Jul 8, 2021, 8:19:27 PM
+3. last modified Jul 9, 2021, 10:07:06 PM
+[ERROR] ,Jul 9, 2021, 10:07:15 PM ,Invalid input!
 Header
 2. ali
-3. last modified Jul 8, 2021, 8:20:40 PM
-[ERROR] ,Jul 8, 2021, 8:20:57 PM ,WRONG USERNAME
-[ERROR] ,Jul 8, 2021, 8:20:57 PM ,WRONG PASSWORD
-[ERROR] ,Jul 8, 2021, 8:20:57 PM ,EMPTY FIELD!
-[ERROR] ,Jul 8, 2021, 8:20:57 PM ,EMPTY FIELD!
+3. last modified Jul 9, 2021, 10:11:54 PM
+[ERROR] ,Jul 9, 2021, 10:12:03 PM ,Invalid input!
+[ERROR] ,Jul 9, 2021, 10:14:40 PM ,WRONG PASSWORD
 Header
 2. ali
-3. last modified Jul 8, 2021, 8:20:57 PM
+3. last modified Jul 9, 2021, 10:14:40 PM
+[ERROR] ,Jul 9, 2021, 10:14:59 PM ,Invalid input!
 Header
 2. ali
-3. last modified Jul 8, 2021, 8:49:56 PM
-[INFO] ,Jul 8, 2021, 8:50:14 PM ,USER LOG OUT
+3. last modified Jul 9, 2021, 10:16:58 PM
 Header
 2. ali
-3. last modified Jul 8, 2021, 8:50:14 PM
-[ERROR] ,Jul 8, 2021, 8:50:24 PM ,Invalid input!
-Header
-2. ali
-3. last modified Jul 8, 2021, 8:53:47 PM
-[ERROR] ,Jul 8, 2021, 8:53:57 PM ,EMPTY FIELD
-[ERROR] ,Jul 8, 2021, 8:54:08 PM ,Invalid input!
-[ERROR] ,Jul 8, 2021, 8:55:14 PM ,Invalid input!
-[ERROR] ,Jul 8, 2021, 8:55:15 PM ,Invalid input!
-[ERROR] ,Jul 8, 2021, 8:55:21 PM ,Invalid input!
-[ERROR] ,Jul 8, 2021, 8:56:13 PM ,Invalid input!
-[ERROR] ,Jul 8, 2021, 8:56:17 PM ,Invalid input!
-[ERROR] ,Jul 8, 2021, 8:56:17 PM ,Invalid input!
-[ERROR] ,Jul 8, 2021, 8:56:18 PM ,Invalid input!
-[ERROR] ,Jul 8, 2021, 8:56:18 PM ,Invalid input!
-[ERROR] ,Jul 8, 2021, 8:56:18 PM ,Invalid input!
-[ERROR] ,Jul 8, 2021, 8:56:18 PM ,Invalid input!
-Header
-2. ali
-3. last modified Jul 8, 2021, 11:10:11 PM
-[INFO] ,Jul 8, 2021, 11:10:27 PM ,USER ENTER THE GAME ...
-Header
-2. ali
-3. last modified Jul 8, 2021, 11:11:00 PM
-[INFO] ,Jul 8, 2021, 11:11:12 PM ,USER ENTER THE GAME ...
-Header
-2. ali
-3. last modified Jul 8, 2021, 11:13:25 PM
-[INFO] ,Jul 8, 2021, 11:13:40 PM ,USER ENTER THE GAME ...
-Header
-2. ali
-3. last modified Jul 8, 2021, 11:15:50 PM
-[INFO] ,Jul 8, 2021, 11:16:04 PM ,USER ENTER THE GAME ...
+3. last modified Jul 9, 2021, 10:20:22 PM
+[ERROR] ,Jul 9, 2021, 10:20:37 PM ,Invalid input!
