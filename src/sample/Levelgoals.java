@@ -1,6 +1,8 @@
 package sample;
 
+import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
+import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 
 import java.io.File;
@@ -20,7 +22,7 @@ public class Levelgoals {
     @FXML
     private Label level;
     @FXML
-    private Label time;
+    private Label time ;
     @FXML
     private Label prize;
     @FXML
@@ -35,12 +37,15 @@ public class Levelgoals {
     private Label task5;
     @FXML
     private Label task6;
+    @FXML
+    private Button Ok;
 
 
 
     int currentLevel1, maxLevel, startCoin, timeprize, prize1;
     String tasks, wildanimals;
     String [] subtask;
+
 
 
 
@@ -141,4 +146,13 @@ public class Levelgoals {
         }
     }
 
+    public void UserOk(ActionEvent actionEvent) throws Exception {
+
+        Farm farm = new Farm();
+        farm.run();
+
+
+
+
+    }
 }
