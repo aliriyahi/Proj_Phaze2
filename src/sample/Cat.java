@@ -1,5 +1,6 @@
 package sample;
 
+import java.util.ArrayList;
 import java.util.Random;
 
 public class Cat {
@@ -7,30 +8,24 @@ public class Cat {
 
     public String name = "cat";
     public int price = 150;
-    public int xposision = Math.abs(rand.nextInt() % 6);
-    public int yposision = Math.abs(rand.nextInt() % 6);
-    public int speed = 1;
+    public int xposision = Math.abs(rand.nextInt()%500)+200;
+    public int yposision = Math.abs(rand.nextInt()%300)+140;
+    public int speed = 10;
 
-    public void animalmove(int[][][] homeproduct) {
-        double temp = 50;
+    public void animalmove(ArrayList<Product> products) {
+        double temp =10000;
         int x = 0;
         int y = 0;
-        boolean b = false;
-        for (int i = 0; i < 6; i++) {
-            for (int j = 0; j < 6; j++) {
-                for (int k = 0; k < 12; k++) {
-                    if (homeproduct[i][j][k] != 0) {
-                        b = true;
-                        if (Math.sqrt((j - this.xposision) * (j - this.xposision) + (i - this.yposision) * (i - this.yposision)) < temp) {
-                            temp = Math.sqrt((j - this.xposision) * (j - this.xposision) + (i - this.yposision) * (i - this.yposision));
-                            x = j;
-                            y = i;
-                        }
-                    }
-                }
+        boolean movetype=false;
+        for (int i = 0; i < products.size(); i++) {
+            if (Math.sqrt((products.get(i).xposission-this.xposision)*(products.get(i).xposission-this.xposision)+(products.get(i).yposission-this.yposision)*(products.get(i).yposission-this.yposision))<temp){
+                temp=Math.sqrt((products.get(i).xposission-this.xposision)*(products.get(i).xposission-this.xposision)+(products.get(i).yposission-this.yposision)*(products.get(i).yposission-this.yposision));
+                x=products.get(i).xposission;
+                y=products.get(i).yposission;
+                movetype=true;
             }
         }
-        if (b) {
+        if (movetype){
             if (xposision > x)
                 xposision -= speed;
             else if (xposision < x)
@@ -41,7 +36,8 @@ public class Cat {
                 else if (yposision < y)
                     yposision += speed;
             }
-        } else {
+
+        }else {
             int random = Math.abs(rand.nextInt() % 2);
             if (random == 0)
                 random = 1;
@@ -51,23 +47,20 @@ public class Cat {
             int random1 = Math.abs(rand.nextInt() % 2);
 
             if (random1 == 0) {
-                if (this.xposision + move <= 5 && this.xposision + move >= 0) {
+                if (this.xposision + move <= 600 && this.xposision + move >= 200) {
                     this.xposision += move;
                 } else {
                     move *= -1;
                     this.xposision += move;
                 }
-
             } else if (random1 == 1) {
-                if (this.yposision + move <= 5 && this.yposision + move >= 0) {
+                if (this.yposision + move <= 340 && this.yposision + move >= 140) {
                     this.yposision += move;
                 } else {
                     move *= -1;
                     this.yposision += move;
                 }
-
             }
         }
-
     }
 }

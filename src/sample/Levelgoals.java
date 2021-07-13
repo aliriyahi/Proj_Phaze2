@@ -112,7 +112,7 @@ public class Levelgoals {
                 }
                 if (temp.contains("level "+this.currentLevel1)){
                     this.startCoin=Integer.parseInt(s.nextLine().split("\\s")[1]);
-                    //Storage.coin = startCoin + previousCoin;
+                    Storage.coin = startCoin + previousCoin;
                     this.tasks=s.nextLine().substring(6);
                     this.subtask = tasks.split("\\s");
                     this.wildanimals=s.nextLine().substring(8);

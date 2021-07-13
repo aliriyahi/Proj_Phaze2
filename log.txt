@@ -406,3 +406,858 @@ Header
 3. last modified Jul 11, 2021, 11:03:27 PM
 [INFO] ,Jul 11, 2021, 11:03:36 PM ,USER ENTER THE GAME ...
 [ERROR] ,Jul 11, 2021, 11:03:39 PM ,you dont have any water!
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۴۱:۱۰
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۴۱:۲۲ ,USER ENTER THE GAME ...
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۴۱:۲۶ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۴۱:۲۷ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۴۱:۲۸ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۴۱:۲۸ ,you dont have any water!
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۵۰:۴۰
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۵۰:۵۳ ,USER ENTER THE GAME ...
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۵۲:۲۹
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۵۲:۳۷ ,USER ENTER THE GAME ...
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۵۳:۳۲
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۵۳:۴۱ ,USER ENTER THE GAME ...
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۵۴:۰۰
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۵۴:۰۹ ,USER ENTER THE GAME ...
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۵۵:۲۲
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۵۵:۳۲ ,USER ENTER THE GAME ...
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۵۶:۲۱ ,This USERNAME is already taken
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۵۶:۲۱
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۵۶:۴۶ ,USER ENTER THE GAME ...
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۵۹:۳۸
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۸:۵۹:۴۸ ,USER ENTER THE GAME ...
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۰۰:۱۸
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۰۰:۲۶ ,USER ENTER THE GAME ...
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۰۲:۲۴
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۰۲:۳۴ ,USER ENTER THE GAME ...
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۲:۴۶
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۳:۰۷ ,USER ENTER THE GAME ...
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۳:۱۲ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۳:۱۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۳:۱۴ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۳:۱۴ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۳:۱۵ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۳:۱۵ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۳:۱۶ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۳:۱۷ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۳:۱۸ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۳:۱۸ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۳:۱۸ ,you dont have any water!
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۴:۱۶
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۴:۲۷ ,USER ENTER THE GAME ...
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۶:۵۸
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۷:۰۵ ,USER ENTER THE GAME ...
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۷:۴۵
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۷:۵۳ ,USER ENTER THE GAME ...
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۷:۵۵ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۷:۵۶ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۷:۵۶ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۷:۵۷ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۷:۵۸ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۸:۰۱ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۸:۰۲ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۸:۰۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۸:۰۴ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۸:۰۶ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۸:۰۷ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۸:۰۹ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۸:۰۹ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۸:۱۱ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۸:۱۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۸:۱۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۸:۱۴ ,you dont have any water!
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۹:۰۰
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۹:۰۸ ,USER ENTER THE GAME ...
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۹:۱۰ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۹:۱۰ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۹:۱۱ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۹:۱۱ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۹:۱۲ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۹:۱۲ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۹:۱۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۹:۱۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۹:۱۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۹:۱۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۲۹:۱۴ ,you dont have any water!
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۳۰:۱۱
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۳۰:۲۳ ,USER ENTER THE GAME ...
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۱:۴۳
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۱:۵۴ ,USER ENTER THE GAME ...
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۱۹
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۲۹ ,USER ENTER THE GAME ...
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۳۱ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۳۲ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۳۳ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۳۴ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۳۴ ,PLANTED SUCCESSFULLY
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۳۵ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۳۶ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۳۷ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۳۸ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۳۹ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۴۰ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۴۱ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۴۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۴۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۴۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۴۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۴۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۴۴ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۴۴ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۴۵ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۴۵ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۴۵ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۴۶ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۴۶ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۴۶ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۴۷ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۴۷ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۴۸ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۴۸ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۰ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۲ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۴ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۴ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۵ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۵ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۵ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۵ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۵ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۶ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۶ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۶ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۶ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۶ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۷ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۷ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۷ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۷ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۸ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۸ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۸ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۸ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۴:۵۹ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۰۸ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۰ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۰ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۰ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۱ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۱ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۱ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۱ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۲ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۲ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۲ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۲ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۲ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۲ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۴ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۴ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۴ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۴ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۴ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۵ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۵ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۵ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۶ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۶ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۵:۳۶ ,you dont have any water!
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۶:۳۷
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۶:۴۸ ,USER ENTER THE GAME ...
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۶:۵۱ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۶:۵۴ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۶:۵۵ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۶:۵۵ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۶:۵۶ ,PLANTED SUCCESSFULLY
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۶:۵۶ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۶:۵۷ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۶:۵۸ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۶:۵۸ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۶:۵۹ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۶:۵۹ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۰۰ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۰۲ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۰۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۰۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۰۴ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۰۵ ,you dont have any water!
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۲۸
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۳۶ ,USER ENTER THE GAME ...
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۴۳ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۴۳ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۴۴ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۴۵ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۴۵ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۴۶ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۴۷ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۴۷ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۴۸ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۴۹ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۴۹ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۵۱ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۵۲ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۵۳ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۵۳ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۵۴ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۵۵ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۵۶ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۵۶ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۵۷ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۷:۵۸ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۸:۰۰ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۸:۰۱ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۸:۰۳ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۸:۰۴ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۸:۰۵ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۸:۰۶ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۸:۰۶ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۸:۰۷ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۸:۰۸ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۸:۰۸ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۸:۰۹ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۸:۰۹ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۸:۱۰ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۸:۱۱ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۱۹:۵۸:۱۱ ,PLANTED SUCCESSFULLY
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۰۳:۴۱
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۰۴:۰۱ ,USER ENTER THE GAME ...
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۰۷:۵۳
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۰۸:۰۳ ,USER ENTER THE GAME ...
+Header
+1. ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۰۹:۴۲
+2. soltanali
+3. ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۰۹:۴۲
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۰۹:۵۸ ,USER ENTER THE GAME ...
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۰:۰۷ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۰:۰۸ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۰:۰۸ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۰:۰۹ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۰:۰۹ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۰:۱۰ ,you dont have any water!
+Header
+2. soltanali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۴:۴۷
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۵:۰۰ ,USER ENTER THE GAME ...
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۵:۰۵ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۵:۰۶ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۵:۰۷ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۵:۰۸ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۵:۰۹ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۵:۱۰ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۵:۱۱ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۵:۱۱ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۵:۱۲ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۵:۱۲ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۵:۱۴ ,PLANTED SUCCESSFULLY
+Header
+2. soltanali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۶:۳۵
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۶:۴۵ ,USER ENTER THE GAME ...
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۶:۴۹ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۶:۵۲ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۷:۰۰ ,PLANTED SUCCESSFULLY
+Header
+2. soltanali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۰۶
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۱۵ ,USER ENTER THE GAME ...
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۲۳ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۲۳ ,you dont have any water!
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۲۵ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۳۰ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۳۱ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۳۲ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۳۳ ,PLANTED SUCCESSFULLY
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۳۳ ,you dont have any water!
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۳۵ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۴۲ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۴۴ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۴۵ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۴۵ ,PLANTED SUCCESSFULLY
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۴۶ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۴۶ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۴۷ ,you dont have any water!
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۴۹ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۴۹ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۵۰ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۱۹:۵۰ ,PLANTED SUCCESSFULLY
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۵۴:۵۸
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۵۵:۱۵ ,USER ENTER THE GAME ...
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۵۵:۱۹ ,you dont have any water!
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۵۵:۲۶ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۵۵:۲۷ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۰:۵۵:۲۷ ,PLANTED SUCCESSFULLY
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۱:۲۵:۰۱
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۱:۲۵:۱۱ ,USER ENTER THE GAME ...
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۱:۲۶:۲۱
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۱:۲۶:۳۴ ,USER ENTER THE GAME ...
+Header
+2. ali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۱:۲۷:۰۶
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۱:۲۷:۱۶ ,USER ENTER THE GAME ...
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۱:۲۷:۳۱ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۱:۲۷:۳۱ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۱:۲۷:۳۱ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۱:۲۷:۳۲ ,you dont have any water!
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۱:۲۷:۳۲ ,you dont have any water!
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۱:۲۷:۳۵ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۱:۲۷:۳۶ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۱:۲۷:۳۹ ,PLANTED SUCCESSFULLY
+Header
+2. soltanali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۱:۲۸:۱۷
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۱:۲۸:۲۹ ,USER ENTER THE GAME ...
+Header
+2. soltanali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۴:۴۱
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۴:۵۹ ,USER ENTER THE GAME ...
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۵:۰۶ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۵:۰۷ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۵:۰۷ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۵:۰۸ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۵:۰۹ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۵:۱۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۵:۱۶ ,CHICKEN BOUGHT SUCCESSFULLY
+Header
+2. soltanali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۶:۰۱
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۶:۱۴ ,USER ENTER THE GAME ...
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۶:۲۰ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۶:۲۰ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۶:۲۱ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۶:۲۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۶:۳۴ ,CHICKEN BOUGHT SUCCESSFULLY
+Header
+2. soltanali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۸:۳۶
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۸:۴۷ ,USER ENTER THE GAME ...
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۸:۵۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۸:۵۲ ,CHICKEN BOUGHT SUCCESSFULLY
+Header
+2. soltanali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۹:۰۷
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۹:۲۰ ,USER ENTER THE GAME ...
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۹:۲۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۹:۲۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۹:۲۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۹:۲۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۹:۲۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۹:۲۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۹:۲۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۹:۲۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۹:۳۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۹:۳۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۹:۳۱ ,DONT HAVE ENOUGH MONY TO BUY CHICKEN
+Header
+2. soltanali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۹:۴۲
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۰۹:۵۵ ,USER ENTER THE GAME ...
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۰۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۱۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۰:۲۵ ,CHICKEN BOUGHT SUCCESSFULLY
+Header
+2. soltanali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۰۹
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۰ ,USER ENTER THE GAME ...
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۲۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۳۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۳۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۳۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۳۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۳۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۳۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۳۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۳۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۳۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۳۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۳۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۳۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۳۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۳۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۳۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۲:۴۸ ,CHICKEN BOUGHT SUCCESSFULLY
+Header
+2. soltanali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۳:۳۲
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۳:۴۵ ,USER ENTER THE GAME ...
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۳:۵۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۳:۵۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۳:۵۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۳:۵۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۳:۵۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۳:۵۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۳:۵۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۳:۵۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۳:۵۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۳:۵۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۳:۵۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۳:۵۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۳:۵۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۳:۵۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۳:۵۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۳:۵۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۳:۵۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۰۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۱۵ ,CHICKEN BOUGHT SUCCESSFULLY
+Header
+2. soltanali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۴:۴۶
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۰۰ ,USER ENTER THE GAME ...
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۰۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۰۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۰۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۰۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۰۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۰۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۰۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۰۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۰۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۰۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۱۹ ,CHICKEN BOUGHT SUCCESSFULLY
+Header
+2. soltanali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۳۹
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۰ ,USER ENTER THE GAME ...
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۵:۵۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۰۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۶ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۱۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۲۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۲۰ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۲۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۲۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۲۱ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۲۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۲۲ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۲۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۲۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۲۳ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۲۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۲۴ ,CHICKEN BOUGHT SUCCESSFULLY
+[ERROR] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۱۶:۲۴ ,DONT HAVE ENOUGH MONY TO BUY CHICKEN
+Header
+2. soltanali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۶:۰۳
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۶:۱۸ ,USER ENTER THE GAME ...
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۶:۲۵ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۶:۲۶ ,TURKEY BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۶:۳۰ ,BUFFALO BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۶:۳۴ ,BUFFALO BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۶:۳۶ ,DOG BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۶:۴۴ ,CAT BOUGHT SUCCESSFULLY
+Header
+2. soltanali
+3. last modified ۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۷:۳۳
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۷:۴۷ ,USER ENTER THE GAME ...
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۷:۵۲ ,CAT BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۷:۵۴ ,BUFFALO BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۷:۵۷ ,DOG BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۷:۵۸ ,DOG BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۷:۵۹ ,DOG BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۸:۰۰ ,TURKEY BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۸:۰۰ ,TURKEY BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۸:۰۱ ,TURKEY BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۸:۰۷ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۸:۰۸ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۸:۰۹ ,CHICKEN BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۸:۱۱ ,BUFFALO BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۸:۱۲ ,BUFFALO BOUGHT SUCCESSFULLY
+[INFO] ,۱۲ ژوئیهٔ ۲۰۲۱،‏ ۲۲:۴۸:۱۲ ,BUFFALO BOUGHT SUCCESSFULLY
+Header
+2. soltanali
+3. last modified ۱۴ ژوئیهٔ ۲۰۲۱،‏ ۲:۱۶:۴۱
+[INFO] ,۱۴ ژوئیهٔ ۲۰۲۱،‏ ۲:۱۶:۵۳ ,USER ENTER THE GAME ...
+[INFO] ,۱۴ ژوئیهٔ ۲۰۲۱،‏ ۲:۱۷:۰۴ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۴ ژوئیهٔ ۲۰۲۱،‏ ۲:۱۷:۰۵ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۴ ژوئیهٔ ۲۰۲۱،‏ ۲:۱۷:۰۶ ,PLANTED SUCCESSFULLY
+[INFO] ,۱۴ ژوئیهٔ ۲۰۲۱،‏ ۲:۱۷:۰۹ ,CHICKEN BOUGHT SUCCESSFULLY
