@@ -6,7 +6,8 @@ public class ProdFabric {
     public int unit = 0;
     int unitTime = 5;
     public  boolean exist = false;
-    boolean x2 = false; // for upgrade
+
+    public boolean upgradeed = false;
 
     public ProdFabric(){
 
@@ -20,12 +21,8 @@ public class ProdFabric {
     }
 
     public void run(){
-        if(x2 && Storage.feather >= 2){
-            Storage.feather -= 2;
 
-            unit += 2;
-        }
-        else if(Storage.feather >= 1){
+        if(Storage.feather >= 1){
             Storage.feather -= 1;
 
             unit ++; // handle time unit
@@ -45,13 +42,12 @@ public class ProdFabric {
             return false;
     }
 
-    public void upgrade(int mode){
+    public void upgrade(){
         if(Storage.coin >= UPCOST){
+            upgradeed=true;
             Storage.coin -= UPCOST;
-            if(mode == 1)
-                unitTime /= 2;
-            if(mode == 2)
-                x2 = true;
+            unitTime /= 2;
+
         }
     }
 }

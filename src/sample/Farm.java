@@ -25,6 +25,7 @@ import javafx.scene.shape.Circle;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
+import javax.swing.plaf.basic.BasicViewportUI;
 import java.awt.event.KeyEvent;
 //import java.beans.EventHandler;
 import java.io.*;
@@ -35,42 +36,42 @@ import java.util.concurrent.TimeUnit;
 
 public class Farm {
     static int prize;
+    Well well = new Well();
+    int[][] grass=new int[6][6];
+    //well.water+=50;
+    Random rand = new Random();
+    int turn = 0;
+    int level = 0;
+    int startCoin;
+    String tasks;
+    String wildanimals;
+    int timeprize;
 
+    int maxLevel;
+    String[] wildTn ;
+    String username , password;
+    int previousCoin;
+    File log = new File("log.txt");
+    Date date = new Date();
+    ArrayList<DomesticAnimal> domanimals = new ArrayList();
+    ArrayList<WildAnimal> wildAnimals = new ArrayList();
+    ArrayList<Dog> dogs = new ArrayList();
+    ArrayList<Cat> cats = new ArrayList();
+    ArrayList<Product> products = new ArrayList();
+    Car car = new Car();
+    Mill mill = new Mill();
+    Bakery bakery = new Bakery();
+    PackMilk packMilk = new PackMilk();
+    IceStore iceStore = new IceStore();
+    Tailoring tailoring = new Tailoring();
+    ProdFabric prodFabric = new ProdFabric();
+    int[][][] homeProduct=new int[6][6][12];
+    int millTime=0,bakeryTime=0,iceStoreTime=0,tailoringTime=0,packmilkTime=0,prodfabricTime=0;
+    int truckTime = 0;
+    int[] lionRemoveTime=new int[3],bearRemoveTime=new  int[3],tigerRemoveTime=new int[3];
+    boolean Return = false;
     public void run() throws Exception{
-        Well well = new Well();
-        int[][] grass=new int[6][6];
-        //well.water+=50;
-        Random rand = new Random();
-        int turn = 0;
-        int level = 0;
-        int startCoin;
-        String tasks;
-        String wildanimals;
-        int timeprize;
 
-        int maxLevel;
-        String[] wildTn ;
-        String username , password;
-        int previousCoin;
-        File log = new File("log.txt");
-        Date date = new Date();
-        ArrayList<DomesticAnimal> domanimals = new ArrayList();
-        ArrayList<WildAnimal> wildAnimals = new ArrayList();
-        ArrayList<Dog> dogs = new ArrayList();
-        ArrayList<Cat> cats = new ArrayList();
-        ArrayList<Product> products = new ArrayList();
-        Car car = new Car();
-        Mill mill = new Mill();
-        Bakery bakery = new Bakery();
-        PackMilk packMilk = new PackMilk();
-        IceStore iceStore = new IceStore();
-        Tailoring tailoring = new Tailoring();
-        ProdFabric prodFabric = new ProdFabric();
-        int[][][] homeProduct=new int[6][6][12];
-        int millTime=0,bakeryTime=0,iceStoreTime=0,tailoringTime=0,packmilkTime=0,prodfabricTime=0;
-        int truckTime = 0;
-        int[] lionRemoveTime=new int[3],bearRemoveTime=new  int[3],tigerRemoveTime=new int[3];
-        boolean Return = false;
         BorderPane borderPane = new BorderPane();
         AnchorPane anchorPane = new AnchorPane();
 
@@ -126,6 +127,162 @@ public class Farm {
 
                     }
                 });
+        Button bakerybuy = new Button(" BUY 250$");
+        bakerybuy.setLayoutX(175);bakerybuy.setLayoutY(165);
+        bakerybuy.setStyle("-fx-background-color : #ff5e00");
+        anchorPane.getChildren().add(bakerybuy);
+        Button bakeryupgrade = new Button("UPGRADE 200$");
+        bakeryupgrade.setLayoutX(175);bakeryupgrade.setLayoutY(195);
+        bakeryupgrade.setStyle("-fx-background-color : #ffffff");
+        anchorPane.getChildren().add(bakeryupgrade);
+        Button bakerywork = new Button("WORK");
+        bakerywork.setLayoutX(175);bakerywork.setLayoutY(225);
+        bakerywork.setStyle("-fx-background-color : #ff00cd");
+        anchorPane.getChildren().add(bakerywork);
+        Button millbuy = new Button(" BUY 150$");
+        millbuy.setLayoutX(175);millbuy.setLayoutY(315);
+        millbuy.setStyle("-fx-background-color : #ff5e00");
+        anchorPane.getChildren().add(millbuy);
+        Button millupgrade = new Button("UPGRADE 100$");
+        millupgrade.setLayoutX(175);millupgrade.setLayoutY(345);
+        millupgrade.setStyle("-fx-background-color : #ffffff");
+        anchorPane.getChildren().add(millupgrade);
+        Button millwork = new Button("WORK");
+        millwork.setLayoutX(175);millwork.setLayoutY(375);
+        millwork.setStyle("-fx-background-color : #ff00cd");
+        anchorPane.getChildren().add(millwork);
+        Button spinningbuy = new Button(" BUY 250$");
+        spinningbuy.setLayoutX(175);spinningbuy.setLayoutY(465);
+        spinningbuy.setStyle("-fx-background-color : #ff5e00");
+        anchorPane.getChildren().add(spinningbuy);
+        Button spinningupgrade = new Button("UPGRADE 200$");
+        spinningupgrade.setLayoutX(175);spinningupgrade.setLayoutY(495);
+        spinningupgrade.setStyle("-fx-background-color : #ffffff");
+        anchorPane.getChildren().add(spinningupgrade);
+        Button spinningwork = new Button("WORK");
+        spinningwork.setLayoutX(175);spinningwork.setLayoutY(525);
+        spinningwork.setStyle("-fx-background-color : #ff00cd");
+        anchorPane.getChildren().add(spinningwork);
+        Button tailoringbuy = new Button(" BUY 400$");
+        tailoringbuy.setLayoutX(840);tailoringbuy.setLayoutY(130);
+        tailoringbuy.setStyle("-fx-background-color : #ff5e00");
+        anchorPane.getChildren().add(tailoringbuy);
+        Button tailoringupgrade = new Button("UPGRADE 300$");
+        tailoringupgrade.setLayoutX(840);tailoringupgrade.setLayoutY(160);
+        tailoringupgrade.setStyle("-fx-background-color : #ffffff");
+        anchorPane.getChildren().add(tailoringupgrade);
+        Button tailoringwork = new Button("WORK");
+        tailoringwork.setLayoutX(840);tailoringwork.setLayoutY(190);
+        tailoringwork.setStyle("-fx-background-color : #ff00cd");
+        anchorPane.getChildren().add(tailoringwork);
+        Button icestorebuy = new Button(" BUY 550");
+        icestorebuy.setLayoutX(840);icestorebuy.setLayoutY(280);
+        icestorebuy.setStyle("-fx-background-color : #ff5e00");
+        anchorPane.getChildren().add(icestorebuy);
+        Button icestoreupgrade = new Button("UPGRADE 400$");
+        icestoreupgrade.setLayoutX(840);icestoreupgrade.setLayoutY(310);
+        icestoreupgrade.setStyle("-fx-background-color : #ffffff");
+        anchorPane.getChildren().add(icestoreupgrade);
+        Button icestorework = new Button("WORK");
+        icestorework.setLayoutX(840);icestorework.setLayoutY(340);
+        icestorework.setStyle("-fx-background-color : #ff00cd");
+        anchorPane.getChildren().add(icestorework);
+        Button packmilkbuy = new Button(" BUY 400$");
+        packmilkbuy.setLayoutX(840);packmilkbuy.setLayoutY(430);
+        packmilkbuy.setStyle("-fx-background-color : #ff5e00");
+        anchorPane.getChildren().add(packmilkbuy);
+        Button packmilkupgrade = new Button("UPGRADE 300$");
+        packmilkupgrade.setLayoutX(840);packmilkupgrade.setLayoutY(460);
+        packmilkupgrade.setStyle("-fx-background-color : #ffffff");
+        anchorPane.getChildren().add(packmilkupgrade);
+        Button packmilkwork = new Button("WORK");
+        packmilkwork.setLayoutX(840);packmilkwork.setLayoutY(490);
+        packmilkwork.setStyle("-fx-background-color : #ff00cd");
+        anchorPane.getChildren().add(packmilkwork);
+        //--------------------------------------------------------workshop button action
+        bakerybuy.setOnAction( e -> {if(!bakery.exist){
+        bakery.build();
+        logger("INFO" , "BAKERY BUILT SUCCESSFULLY");}
+        else
+            logger("ERROR" , "YOU DONT HAVE ENOUGH MONEY TO BUY BAKERY");
+        });
+        bakeryupgrade.setOnAction( e ->{if (!bakery.upgradeed){
+        bakery.upgrade();
+        logger("INFO" , "BAKERY UPGRADED SUCCESSFULLY");}
+        else
+            logger("ERROR" , "YOU DONT HAVE ENOUGH MONEY TO UPGRADE BAKERY");
+        });
+        bakerywork.setOnAction( e -> {
+            if (Storage.flour==0){
+                logger("ERROR" , "CANT WORK BAKERY");
+            }
+            else {
+                if(bakeryTime==0){
+                    bakeryTime=turn+bakery.unitTime;
+                }
+            }
+        });
+        millbuy.setOnAction(e -> {if(!mill.exist){
+            mill.build();
+            logger("INFO" , "MILL BUILT SUCCESSFULLY");}
+        else
+            logger("ERROR" , "YOU DONT HAVE ENOUGH MONEY TO BUY MILL");
+        });
+        millupgrade.setOnAction( e ->{if (!mill.upgradeed){
+            mill.upgrade();
+            logger("INFO" , "MILL UPGRADED SUCCESSFULLY");}
+        else
+            logger("ERROR" , "YOU DONT HAVE ENOUGH MONEY TO UPGRADE MILL");
+        });
+        millwork.setOnAction( e -> {
+            if (Storage.egg==0){
+                logger("ERROR" , "CANT WORK MILL");
+            }
+            else {
+                if(millTime==0){
+                    millTime=turn+mill.unitTime;
+                }
+            }
+        });
+        spinningbuy.setOnAction(e -> {if(!prodFabric.exist){
+            prodFabric.build();
+            logger("INFO" , "PRODFABRIC BUILT SUCCESSFULLY");}
+        else
+            logger("ERROR" , "YOU DONT HAVE ENOUGH MONEY TO BUY PRODFABRIC");
+        });
+        spinningupgrade.setOnAction( e ->{if (!prodFabric.upgradeed){
+            prodFabric.upgrade();
+            logger("INFO" , "PRODFABRIC UPGRADED SUCCESSFULLY");}
+        else
+            logger("ERROR" , "YOU DONT HAVE ENOUGH MONEY TO UPGRADE PRODFABRIC");
+        });
+        spinningwork.setOnAction( e -> {
+            if (Storage.fabric==0){
+                logger("ERROR" , "CANT WORK PRODFABRIC");
+            }
+            else {
+                if(prodfabricTime==0){
+                    prodfabricTime=turn+prodFabric.unitTime;
+                }
+            }
+        });
+        tailoringbuy.setOnAction(e -> {if(!tailoring.exist){
+            tailoring.build();
+            logger("INFO" , "TAILORING BUILT SUCCESSFULLY");}
+        else
+            logger("ERROR" , "YOU DONT HAVE ENOUGH MONEY TO BUY TAILORING");
+        });
+        tailoringupgrade.setOnAction( e ->{if (!tailoring.upgradeed){
+            prodFabric.upgrade();
+            logger("INFO" , "PRODFABRIC UPGRADED SUCCESSFULLY");}
+        else
+            logger("ERROR" , "YOU DONT HAVE ENOUGH MONEY TO UPGRADE PRODFABRIC");
+        });
+
+
+
+
+
 
 
         //-------------------------------------------------------------------- animal images
@@ -165,13 +322,34 @@ public class Farm {
         ArrayList<ImageView> cloths = new ArrayList<ImageView>();
         ArrayList<ImageView> icecreams = new ArrayList<ImageView>();
         //------------------------------------------------------------- workshop images
-        Image bakeryImage = new Image(new FileInputStream("src/image/bakery.png") , 50 , 50 ,false ,true );
-        Image milkImage= new Image(new FileInputStream("src/image/mill.png") , 50 , 50 ,false ,true );
-        Image spinningImage= new Image(new FileInputStream("src/image/spinning.png") , 50 , 50 ,false ,true );
-        Image tailoringImage= new Image(new FileInputStream("src/image/tailoring.png") , 50 , 50 ,false ,true );
-        Image icestoreImage= new Image(new FileInputStream("src/image/icecreamstore.png") , 50 , 50 ,false ,true );
-        Image packmilkImage= new Image(new FileInputStream("src/image/packmilkstore.png") , 50 , 50 ,false ,true );
+        Image bakeryImage = new Image(new FileInputStream("src/image/bakery.png") , 150 , 150 ,false ,true );
+        Image millImage= new Image(new FileInputStream("src/image/mill.png") , 150 , 150 ,false ,true );
+        Image spinningImage= new Image(new FileInputStream("src/image/spinning.png") , 150 , 150 ,false ,true );
+        Image tailoringImage= new Image(new FileInputStream("src/image/tailoring.png") , 150 , 150 ,false ,true );
+        Image icestoreImage= new Image(new FileInputStream("src/image/icecreamstore.png") , 150 , 150 ,false ,true );
+        Image packmilkImage= new Image(new FileInputStream("src/image/packmilkstore.png") , 150 , 150 ,false ,true );
         ImageView bakeryview = new ImageView(bakeryImage);
+        ImageView millview = new ImageView(millImage);
+        ImageView spinningview = new ImageView(spinningImage);
+        ImageView tailoringview =new ImageView(tailoringImage);
+        ImageView icestoreview = new ImageView(icestoreImage);
+        ImageView packmilkview = new ImageView(packmilkImage);
+        bakeryview.setX(20);
+        bakeryview.setY(160);
+        millview.setX(20);
+        millview.setY(310);
+        spinningview.setX(20);
+        spinningview.setY(460);
+        tailoringview.setX(910);
+        tailoringview.setY(110);
+        icestoreview.setX(930);
+        icestoreview.setY(260);
+        packmilkview.setX(930);
+        packmilkview.setY(410);
+        anchorPane.getChildren().addAll(bakeryview , millview , spinningview , tailoringview , icestoreview , packmilkview);
+
+
+
 
         //-------------------------------------------------------------------- Image loading
         Image chickenIcon = new Image(new FileInputStream("src/image/chicken-.png"),110,90,false,true);
