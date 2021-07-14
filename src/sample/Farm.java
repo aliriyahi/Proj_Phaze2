@@ -257,7 +257,7 @@ public class Farm {
             logger("ERROR" , "YOU DONT HAVE ENOUGH MONEY TO UPGRADE PRODFABRIC");
         });
         spinningwork.setOnAction( e -> {
-            if (Storage.fabric==0){
+            if (Storage.feather==0){
                 logger("ERROR" , "CANT WORK PRODFABRIC");
             }
             else {
@@ -273,11 +273,67 @@ public class Farm {
             logger("ERROR" , "YOU DONT HAVE ENOUGH MONEY TO BUY TAILORING");
         });
         tailoringupgrade.setOnAction( e ->{if (!tailoring.upgradeed){
-            prodFabric.upgrade();
-            logger("INFO" , "PRODFABRIC UPGRADED SUCCESSFULLY");}
+            tailoring.upgrade();
+            logger("INFO" , "TAILORING UPGRADED SUCCESSFULLY");}
         else
-            logger("ERROR" , "YOU DONT HAVE ENOUGH MONEY TO UPGRADE PRODFABRIC");
+            logger("ERROR" , "YOU DONT HAVE ENOUGH MONEY TO UPGRADE TAILORING");
         });
+        tailoringwork.setOnAction( e -> {
+            if (Storage.fabric==0){
+                logger("ERROR" , "CANT WORK TAILORING");
+            }
+            else {
+                if(tailoringTime==0){
+                    tailoringTime=turn+tailoring.unitTime;
+                }
+            }
+        });
+        icestorebuy.setOnAction(e -> {if(!iceStore.exist){
+            iceStore.build();
+            logger("INFO" , "ICESTORE BUILT SUCCESSFULLY");}
+        else
+            logger("ERROR" , "YOU DONT HAVE ENOUGH MONEY TO BUY ICESTORE");
+        });
+        icestoreupgrade.setOnAction( e ->{if (!iceStore.upgradeed){
+            iceStore.upgrade();
+            logger("INFO" , "ICESTORE UPGRADED SUCCESSFULLY");}
+        else
+            logger("ERROR" , "YOU DONT HAVE ENOUGH MONEY TO UPGRADE ICESTORE");
+        });
+        icestorework.setOnAction( e -> {
+            if (Storage.packMilk==0){
+                logger("ERROR" , "CANT WORK ICESTORE");
+            }
+            else {
+                if(iceStoreTime==0){
+                    iceStoreTime=turn+iceStore.unitTime;
+                }
+            }
+        });
+        packmilkbuy.setOnAction(e -> {if(!packMilk.exist){
+            packMilk.build();
+            logger("INFO" , "PACKMILK BUILT SUCCESSFULLY");}
+        else
+            logger("ERROR" , "YOU DONT HAVE ENOUGH MONEY TO BUY PACKMILK");
+        });
+        packmilkupgrade.setOnAction( e ->{if (!packMilk.upgradeed){
+            packMilk.upgrade();
+            logger("INFO" , "PACKMILK UPGRADED SUCCESSFULLY");}
+        else
+            logger("ERROR" , "YOU DONT HAVE ENOUGH MONEY TO UPGRADE PACKMILK");
+        });
+        packmilkwork.setOnAction( e -> {
+            if (Storage.milk==0){
+                logger("ERROR" , "CANT WORK PACKMILK");
+            }
+            else {
+                if(packmilkTime==0){
+                    packmilkTime=turn+packMilk.unitTime;
+                }
+            }
+        });
+
+
 
 
 

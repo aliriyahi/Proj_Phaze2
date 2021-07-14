@@ -7,6 +7,7 @@ public class PackMilk {
     int unitTime = 6;
     public  boolean exist = false;
     boolean x2 = false; // for upgrade
+    public boolean upgradeed = false;
 
     public PackMilk(){
 
@@ -20,12 +21,8 @@ public class PackMilk {
     }
 
     public void run(){
-        if(x2 && Storage.milk >= 2){
-            Storage.milk -= 2;
 
-            unit += 2;
-        }
-        else if(Storage.milk >= 1){
+        if(Storage.milk >= 1){
             Storage.milk -= 1;
 
             unit ++; // handle time unit
@@ -35,7 +32,7 @@ public class PackMilk {
     public boolean pick(int n){
         if(n <= unit){
             unit -= n;
-            boolean b = Storage.add("packMilk",n);
+            boolean b = Storage.add("packmilk",n);
             if(b)
                 return true;
             else
@@ -45,13 +42,12 @@ public class PackMilk {
             return false;
     }
 
-    public void upgrade(int mode){
+    public void upgrade(){
         if(Storage.coin >= UPCOST){
+            upgradeed=true;
             Storage.coin -= UPCOST;
-            if(mode == 1)
-                unitTime /= 2;
-            if(mode == 2)
-                x2 = true;
+            unitTime /= 2;
+
         }
     }
 }

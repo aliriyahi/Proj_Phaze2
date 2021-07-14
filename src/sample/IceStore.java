@@ -7,6 +7,7 @@ public class IceStore {
     int unitTime = 7;
     public  boolean exist = false;
     boolean x2 = false; // for upgrade
+    public boolean upgradeed =false;
 
     public IceStore(){
     }
@@ -19,12 +20,8 @@ public class IceStore {
     }
 
     public void run(){
-        if(x2 && Storage.packMilk >= 2){
-            Storage.packMilk -= 2;
 
-            unit += 2;
-        }
-        else if(Storage.packMilk >= 1){
+        if(Storage.packMilk >= 1){
             Storage.packMilk -= 1;
 
             unit ++; // handle time unit
@@ -44,13 +41,12 @@ public class IceStore {
             return false;
     }
 
-    public void upgrade(int mode){
+    public void upgrade(){
         if(Storage.coin >= UPCOST){
+            upgradeed=true;
             Storage.coin -= UPCOST;
-            if(mode == 1)
-                unitTime /= 2;
-            if(mode == 2)
-                x2 = true;
+            unitTime /= 2;
+
         }
     }
 }
