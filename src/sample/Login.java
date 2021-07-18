@@ -48,7 +48,7 @@ public class Login {
 
     Date date = new Date();
     File log = new File("log.txt");
-    int level = 1, previousCoin = 0;
+    static int level = 1, previousCoin = 0;
 
     //----------------------------------------------------------------------------------------------------------
     private void checkLogin() throws IOException {
@@ -98,6 +98,9 @@ public class Login {
                         logger.println();
                         logger.println("3. last modified " + date.toLocaleString());
                         logger.close();
+
+                        Farm.username = username.getText();
+                        Farm.password = password.getText();
 
                         m.changeScene("menu.fxml", 600, 400);
                         break;

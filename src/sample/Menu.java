@@ -37,7 +37,7 @@ public class Menu {
 
 
     public void userStart(ActionEvent actionEvent) throws IOException{
-        Main m = new Main();
+        //Main m = new Main();
         Login login = new Login();
 
         try {
@@ -47,7 +47,7 @@ public class Menu {
             }
             else if (Integer.parseInt(level.getText()) <= login.level) {
 
-                m.changeScene("levelgoals.fxml", 1080,700);
+
                 Levelgoals l = new Levelgoals();
                 l.goals(Integer.parseInt(level.getText()));
 

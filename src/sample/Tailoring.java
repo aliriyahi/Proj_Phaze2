@@ -4,7 +4,7 @@ public class Tailoring {    // khayati
     private final int COST = 400;
     private final int UPCOST = 300;
     public int unit = 0;
-    int unitTime = 6;
+    int unitTime = 25;
     public  boolean exist = false;
     boolean x2 = false; // for upgrade
     public boolean upgradeed = false;

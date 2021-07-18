@@ -7,4 +7,6 @@ public class Product {
     public int removetime;
     public int existtime;
 
+    int ID;
+
 }

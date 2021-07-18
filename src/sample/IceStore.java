@@ -4,7 +4,7 @@ public class IceStore {
     private final int COST = 550;
     private final int UPCOST = 400;
     public int unit = 0;
-    int unitTime = 7;
+    int unitTime = 30;
     public  boolean exist = false;
     boolean x2 = false; // for upgrade
     public boolean upgradeed =false;

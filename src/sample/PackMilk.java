@@ -4,7 +4,7 @@ public class PackMilk {
     private final int COST = 400;
     private final int UPCOST = 300;
     public int unit = 0;
-    int unitTime = 6;
+    int unitTime = 18;
     public  boolean exist = false;
     boolean x2 = false; // for upgrade
     public boolean upgradeed = false;

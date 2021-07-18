@@ -9,7 +9,9 @@ public class Dog {
     public int price=100;
     public int xposision = Math.abs(rand.nextInt()%500)+200;
     public int yposision= Math.abs(rand.nextInt()%300)+140;
-    public int speed=10;
+    public int speed = 12;
+    public int ID;
+
     public void animalmove(){
         int random= Math.abs(rand.nextInt()%2);
         if (random==0)
@@ -20,7 +22,7 @@ public class Dog {
         int random1= Math.abs(rand.nextInt()%2);
 
         if (random1==0){
-            if (this.xposision+move<=600 && this.xposision+move>=200){
+            if (this.xposision+move<=690 && this.xposision+move>=200){
                 this.xposision+=move;
             }else {
                 move *= -1;
@@ -30,7 +32,7 @@ public class Dog {
         }
 
         else if (random1==1){
-            if (this.yposision+move<=340 && this.yposision+move>=140){
+            if (this.yposision+move<=430 && this.yposision+move>=140){
                 this.yposision+=move;
             }else {
                 move *= -1;

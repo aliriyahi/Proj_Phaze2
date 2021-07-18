@@ -4,7 +4,7 @@ public class Bakery {
     private final int COST = 250;
     private final int UPCOST = 200;
     public int unit = 0;
-    int unitTime = 5;
+    int unitTime = 22;
     public  boolean exist = false;
 
     public boolean upgradeed = false;

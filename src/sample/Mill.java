@@ -4,7 +4,7 @@ public class Mill {   // asiab
     private final int COST = 150;
     private final int UPCOST = 100;
     public int unit = 0;
-    int unitTime = 4;
+    int unitTime = 8;
     public  boolean exist = false;
 
     public boolean upgradeed = false;

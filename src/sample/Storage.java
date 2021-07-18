@@ -3,7 +3,7 @@ package sample;
 public class Storage {
     static final int SPACE = 30;
 
-    public static int coin = 10000;
+    public static int coin = 100000;
 
     public static int egg;
     public static int totalegg;

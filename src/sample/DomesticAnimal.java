@@ -7,13 +7,16 @@ public class DomesticAnimal {
 
     public String animalName;
     public int animalPrice;
-    public int animalHealth=100;
+    public int animalHealth=300;
     public int timeToProduce;
     public int turnTime;
     public String product;
     public int speed=5;
     public int xposision = Math.abs(rand.nextInt()%500)+200;
     public int yposision = Math.abs(rand.nextInt()%300)+140;
+
+    int ID = 0;
+
 
 
     public void animalmove(){
@@ -45,26 +48,30 @@ public class DomesticAnimal {
 
         }
     }
-    public void animalmove(int x , int y){
-        if (xposision<(x*91+250)+20 && xposision>(x*91+250)-20){
-            if (yposision>(y*55+220))
-                yposision-=speed;
-            else if (yposision<(y*55+220))
-                yposision+=speed;
+    public void animalmove(int x , int y , int type){
+        if(type == 1) {
+            if (xposision < (x * 91 + 240) + 10 && xposision > (x * 91 + 240) - 10) {
+                if (yposision > (y * 55 + 180))
+                    yposision -= speed;
+                else if (yposision < (y * 55 + 180))
+                    yposision += speed;
+            } else if (xposision > (x * 91 + 240))
+                xposision -= speed;
+            else if (xposision < (x * 91 + 240))
+                xposision += speed;
+        }else {
+            animalmove();
         }
-        else if (xposision>(x*91+250))
-            xposision-=speed;
-        else if (xposision<(x*91+250))
-            xposision+=speed;
 
     }
     public int[][] foodneed(int[][] grassposision){
         double temp=52000;
-        int[][] returnvalue=new int[2][1];
+        int[][] returnvalue=new int[3][1];
 
         for (int i = 0; i < 6; i++) {
             for (int j = 0; j < 6; j++) {
                 if (grassposision[i][j]>0){
+                    returnvalue[2][0] = 1;
                     if (Math.sqrt(((j*91+250)-this.xposision)*((j*91+250)-this.xposision)+((i*55+220)-this.yposision)*((i*55+220)-this.yposision))<temp){
                         temp=Math.sqrt(((j*91+250)-this.xposision)*((j*91+250)-this.xposision)+((i*55+220)-this.yposision)*((i*55+220)-this.yposision));
                         returnvalue[0][0]=j;

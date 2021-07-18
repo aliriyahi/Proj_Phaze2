@@ -13,7 +13,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 
 public class Pause {
-    public static void display() throws IOException {
+    public static void display() throws Exception {
         Stage window = new Stage();
 
         //Block events to other windows
@@ -45,7 +45,9 @@ public class Pause {
         Continue.setStyle("-fx-background-color : #ff9900");
         mainMenu.setStyle("-fx-background-color : #ff9900");
 
-        Continue.setOnAction(e -> window.close());
+        //Farm farm = new Farm();
+
+        Continue.setOnAction(e -> {window.close(); Farm.gamePause = false;});
         Main m = new Main();
         mainMenu.setOnAction(e -> {
             try {
